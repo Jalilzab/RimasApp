@@ -6,84 +6,167 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+8-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+9-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:3:3-64
-11-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:3:20-62
-12
-13    <application
-13-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:4:5-23:19
-14        android:allowBackup="true"
-14-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:5:9-35
-15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.8.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\28a1708219c3158e49b329d141e5cfff\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-16        android:debuggable="true"
-17        android:extractNativeLibs="false"
-18        android:icon="@mipmap/ic_launcher"
-18-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:6:9-43
-19        android:label="@string/app_name"
-19-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:7:9-41
-20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:8:9-54
-21        android:supportsRtl="true"
-21-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:9:9-35
-22        android:testOnly="true"
-23        android:theme="@style/Theme.FoodOrderApp" >
-23-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:10:9-50
-24        <activity android:name="com.android.foodorderapp.OrderSucceessActivity" />
-24-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:11:9-59
-24-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:11:19-56
-25        <activity android:name="com.android.foodorderapp.PlaceYourOrderActivity" />
-25-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:12:9-60
-25-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:12:19-57
-26        <activity android:name="com.android.foodorderapp.RestaurantMenuActivity" />
-26-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:13:9-60
-26-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:13:19-57
-27        <activity
-27-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:14:9-21:20
-28            android:name="com.android.foodorderapp.SplashActivity"
-28-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:14:19-49
-29            android:exported="true" >
-29-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:15:13-36
-30            <intent-filter>
-30-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:16:13-20:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:17:17-69
-31-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:17:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:19:17-77
-33-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:19:27-74
-34            </intent-filter>
-35        </activity>
-36        <activity android:name="com.android.foodorderapp.MainActivity" />
-36-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:22:9-50
-36-->C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:22:19-47
-37
-38        <provider
-38-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-39            android:name="androidx.startup.InitializationProvider"
-39-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-40            android:authorities="com.android.foodorderapp.androidx-startup"
-40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-41            android:exported="false" >
-41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-42            <meta-data
-42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-44                android:value="androidx.startup" />
-44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-45            <meta-data
-45-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jalil Zab\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-46-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jalil Zab\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-47                android:value="androidx.startup" />
-47-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jalil Zab\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-48        </provider>
-49    </application>
-50
-51</manifest>
+11-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:3:3-64
+11-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:3:20-62
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+16
+17    <application
+17-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:4:5-23:19
+18        android:allowBackup="true"
+18-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:5:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.8.0] C:\Users\johya\.gradle\caches\transforms-3\9401d956a53e00fc8b6297232300e729\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:6:9-43
+23        android:label="@string/app_name"
+23-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:7:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:8:9-54
+25        android:supportsRtl="true"
+25-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:9:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.FoodOrderApp" >
+27-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:10:9-50
+28        <activity android:name="com.android.foodorderapp.OrderSucceessActivity" />
+28-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:11:9-59
+28-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:11:19-56
+29        <activity android:name="com.android.foodorderapp.PlaceYourOrderActivity" />
+29-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:12:9-60
+29-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:12:19-57
+30        <activity android:name="com.android.foodorderapp.RestaurantMenuActivity" />
+30-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:13:9-60
+30-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:13:19-57
+31        <activity
+31-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:14:9-21:20
+32            android:name="com.android.foodorderapp.SplashActivity"
+32-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:14:19-49
+33            android:exported="true" >
+33-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:15:13-36
+34            <intent-filter>
+34-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:16:13-20:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:17:17-69
+35-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:17:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:19:17-77
+37-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:19:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.android.foodorderapp.MainActivity" />
+40-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:22:9-50
+40-->C:\sources\Android\RimasApp\app\src\main\AndroidManifest.xml:22:19-47
+41
+42        <service
+42-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+43            android:name="com.google.firebase.components.ComponentDiscoveryService"
+43-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:29:13-84
+44            android:directBootAware="true"
+44-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+45            android:exported="false" >
+45-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:30:13-37
+46            <meta-data
+46-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+47                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+47-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+48                android:value="com.google.firebase.components.ComponentRegistrar" />
+48-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\4c517469779aabe9579f955f01cb2a6a\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+49            <meta-data
+49-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\johya\.gradle\caches\transforms-3\82fa4d30e2164282157d50c970a04979\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+50                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+50-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\johya\.gradle\caches\transforms-3\82fa4d30e2164282157d50c970a04979\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+51                android:value="com.google.firebase.components.ComponentRegistrar" />
+51-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\johya\.gradle\caches\transforms-3\82fa4d30e2164282157d50c970a04979\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+52        </service>
+53
+54        <provider
+54-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+55            android:name="com.google.firebase.provider.FirebaseInitProvider"
+55-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+56            android:authorities="com.android.foodorderapp.firebaseinitprovider"
+56-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+57            android:directBootAware="true"
+57-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+58            android:exported="false"
+58-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+59            android:initOrder="100" />
+59-->[com.google.firebase:firebase-common:20.2.0] C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+60
+61        <receiver
+61-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+62            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+62-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+63            android:enabled="true"
+63-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+64            android:exported="false" >
+64-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+65        </receiver>
+66
+67        <service
+67-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+68            android:name="com.google.android.gms.measurement.AppMeasurementService"
+68-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+69            android:enabled="true"
+69-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+70            android:exported="false" />
+70-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+71        <service
+71-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+72            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+72-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+73            android:enabled="true"
+73-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+74            android:exported="false"
+74-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+75            android:permission="android.permission.BIND_JOB_SERVICE" />
+75-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\johya\.gradle\caches\transforms-3\25fff2c1ed10a9649dfce2cd74e46393\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+76
+77        <meta-data
+77-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\johya\.gradle\caches\transforms-3\567b32b2a31fd1a7d8067860f6015014\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+78            android:name="com.google.android.gms.version"
+78-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\johya\.gradle\caches\transforms-3\567b32b2a31fd1a7d8067860f6015014\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+79            android:value="@integer/google_play_services_version" />
+79-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\johya\.gradle\caches\transforms-3\567b32b2a31fd1a7d8067860f6015014\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+80
+81        <provider
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+82            android:name="androidx.startup.InitializationProvider"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+83            android:authorities="com.android.foodorderapp.androidx-startup"
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+84            android:exported="false" >
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+85            <meta-data
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+87                android:value="androidx.startup" />
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+88            <meta-data
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\johya\.gradle\caches\transforms-3\93fb576ffd1abe96053ca79a6b6544ed\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+89                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\johya\.gradle\caches\transforms-3\93fb576ffd1abe96053ca79a6b6544ed\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+90                android:value="androidx.startup" />
+90-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\johya\.gradle\caches\transforms-3\93fb576ffd1abe96053ca79a6b6544ed\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+91        </provider>
+92    </application>
+93
+94</manifest>

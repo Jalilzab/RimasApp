@@ -1,33 +1,36 @@
-com.android.foodorderapp-jetified-glide-4.12.0-0 C:\Users\Jalil Zab\.gradle\caches\transforms-3\1c5524b4806644d317d1b812a85560c0\transformed\jetified-glide-4.12.0\res
-com.android.foodorderapp-jetified-activity-1.5.1-1 C:\Users\Jalil Zab\.gradle\caches\transforms-3\1dc7985c8fa92b98cf0476e477d3cab6\transformed\jetified-activity-1.5.1\res
-com.android.foodorderapp-recyclerview-1.1.0-2 C:\Users\Jalil Zab\.gradle\caches\transforms-3\22d241c7141f3e9a5fc80d59e1858039\transformed\recyclerview-1.1.0\res
-com.android.foodorderapp-jetified-savedstate-1.2.0-3 C:\Users\Jalil Zab\.gradle\caches\transforms-3\2725288d9b729c22362559773295c182\transformed\jetified-savedstate-1.2.0\res
-com.android.foodorderapp-constraintlayout-2.1.4-4 C:\Users\Jalil Zab\.gradle\caches\transforms-3\28075e3b5fe6386b541742e3f2e4f8fe\transformed\constraintlayout-2.1.4\res
-com.android.foodorderapp-core-1.8.0-5 C:\Users\Jalil Zab\.gradle\caches\transforms-3\28a1708219c3158e49b329d141e5cfff\transformed\core-1.8.0\res
-com.android.foodorderapp-appcompat-1.5.1-6 C:\Users\Jalil Zab\.gradle\caches\transforms-3\3237c50a3caa87d96377052b95ee4677\transformed\appcompat-1.5.1\res
-com.android.foodorderapp-jetified-core-ktx-1.8.0-7 C:\Users\Jalil Zab\.gradle\caches\transforms-3\394e56ee9369addc0a4728dc2c125a34\transformed\jetified-core-ktx-1.8.0\res
-com.android.foodorderapp-lifecycle-runtime-2.5.1-8 C:\Users\Jalil Zab\.gradle\caches\transforms-3\45fe6ff7d25a875685e3d35a819f0ee0\transformed\lifecycle-runtime-2.5.1\res
-com.android.foodorderapp-coordinatorlayout-1.1.0-9 C:\Users\Jalil Zab\.gradle\caches\transforms-3\57fa40c87617b400b03816871a4d774b\transformed\coordinatorlayout-1.1.0\res
-com.android.foodorderapp-cardview-1.0.0-10 C:\Users\Jalil Zab\.gradle\caches\transforms-3\6a6579e63b3bd8c175ae83956b0b8ec8\transformed\cardview-1.0.0\res
-com.android.foodorderapp-jetified-emoji2-1.2.0-11 C:\Users\Jalil Zab\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\res
-com.android.foodorderapp-jetified-emoji2-views-helper-1.2.0-12 C:\Users\Jalil Zab\.gradle\caches\transforms-3\7d4ed63384f97bf824b7cf337f535541\transformed\jetified-emoji2-views-helper-1.2.0\res
-com.android.foodorderapp-lifecycle-viewmodel-2.5.1-13 C:\Users\Jalil Zab\.gradle\caches\transforms-3\800b759dfec712e84d533ef665e8dbbf\transformed\lifecycle-viewmodel-2.5.1\res
-com.android.foodorderapp-jetified-startup-runtime-1.1.1-14 C:\Users\Jalil Zab\.gradle\caches\transforms-3\8094097faa76d3861d21f9875bcbaa28\transformed\jetified-startup-runtime-1.1.1\res
-com.android.foodorderapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-15 C:\Users\Jalil Zab\.gradle\caches\transforms-3\84351424f965914905acbdde6266b050\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
-com.android.foodorderapp-jetified-annotation-experimental-1.1.0-16 C:\Users\Jalil Zab\.gradle\caches\transforms-3\8fc18869509e9a573a34b88cc5e2f788\transformed\jetified-annotation-experimental-1.1.0\res
-com.android.foodorderapp-transition-1.2.0-17 C:\Users\Jalil Zab\.gradle\caches\transforms-3\a60afa8674ff12fd760bfee68b9b782b\transformed\transition-1.2.0\res
-com.android.foodorderapp-drawerlayout-1.1.1-18 C:\Users\Jalil Zab\.gradle\caches\transforms-3\ab16b2e2e5eceb327b59bc4f3e06ffc1\transformed\drawerlayout-1.1.1\res
-com.android.foodorderapp-jetified-appcompat-resources-1.5.1-19 C:\Users\Jalil Zab\.gradle\caches\transforms-3\cbaf0bb820626f2835e48eddccc765f7\transformed\jetified-appcompat-resources-1.5.1\res
-com.android.foodorderapp-material-1.7.0-20 C:\Users\Jalil Zab\.gradle\caches\transforms-3\d570501ed8422ac3c5d39480119bfc6a\transformed\material-1.7.0\res
-com.android.foodorderapp-fragment-1.3.6-21 C:\Users\Jalil Zab\.gradle\caches\transforms-3\da38be768fa47ab897f2858317f836eb\transformed\fragment-1.3.6\res
-com.android.foodorderapp-jetified-lifecycle-process-2.4.1-22 C:\Users\Jalil Zab\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\res
-com.android.foodorderapp-jetified-viewpager2-1.0.0-23 C:\Users\Jalil Zab\.gradle\caches\transforms-3\f7c6d1fe7fb2075f2465e9ad8c502a12\transformed\jetified-viewpager2-1.0.0\res
-com.android.foodorderapp-lifecycle-livedata-core-2.5.1-24 C:\Users\Jalil Zab\.gradle\caches\transforms-3\f8376e3cbb76e3fb2cb2fb8cf937bb50\transformed\lifecycle-livedata-core-2.5.1\res
-com.android.foodorderapp-pngs-25 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\build\generated\res\pngs\debug
-com.android.foodorderapp-resValues-26 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\build\generated\res\resValues\debug
-com.android.foodorderapp-rs-27 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\build\generated\res\rs\debug
-com.android.foodorderapp-mergeDebugResources-28 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.android.foodorderapp-mergeDebugResources-29 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.android.foodorderapp-merged_res-30 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\build\intermediates\merged_res\debug
-com.android.foodorderapp-debug-31 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\debug\res
-com.android.foodorderapp-main-32 C:\Users\Jalil Zab\Desktop\Galen Stuff\Soft-Eng2\foodApp\FoodApp-main\FoodOrderApp\app\src\main\res
+com.android.foodorderapp-jetified-glide-4.12.0-0 C:\Users\johya\.gradle\caches\transforms-3\098b2a7451f0c095f7bf95495e7c72e2\transformed\jetified-glide-4.12.0\res
+com.android.foodorderapp-lifecycle-livedata-core-2.5.1-1 C:\Users\johya\.gradle\caches\transforms-3\0e8b0e7093e8c458d6f7f838de00f917\transformed\lifecycle-livedata-core-2.5.1\res
+com.android.foodorderapp-material-1.7.0-2 C:\Users\johya\.gradle\caches\transforms-3\184a7f91a072e77a41a6ede8d5c073a2\transformed\material-1.7.0\res
+com.android.foodorderapp-jetified-core-ktx-1.8.0-3 C:\Users\johya\.gradle\caches\transforms-3\1b2aed42991693cc0922df4c88d4143e\transformed\jetified-core-ktx-1.8.0\res
+com.android.foodorderapp-recyclerview-1.1.0-4 C:\Users\johya\.gradle\caches\transforms-3\26e224141aa0f2cb42df5f41ed527344\transformed\recyclerview-1.1.0\res
+com.android.foodorderapp-jetified-viewpager2-1.0.0-5 C:\Users\johya\.gradle\caches\transforms-3\30b0b151d1570a2038ca36e8479b0e65\transformed\jetified-viewpager2-1.0.0\res
+com.android.foodorderapp-jetified-startup-runtime-1.1.1-6 C:\Users\johya\.gradle\caches\transforms-3\435462ef4cb2bbf3392da7495dbd2b6a\transformed\jetified-startup-runtime-1.1.1\res
+com.android.foodorderapp-jetified-emoji2-1.2.0-7 C:\Users\johya\.gradle\caches\transforms-3\4bc47e44d0e4b813b389a8e7992b35c3\transformed\jetified-emoji2-1.2.0\res
+com.android.foodorderapp-jetified-savedstate-1.2.0-8 C:\Users\johya\.gradle\caches\transforms-3\507e7be34252248e9499969d323eed68\transformed\jetified-savedstate-1.2.0\res
+com.android.foodorderapp-jetified-play-services-basement-18.1.0-9 C:\Users\johya\.gradle\caches\transforms-3\567b32b2a31fd1a7d8067860f6015014\transformed\jetified-play-services-basement-18.1.0\res
+com.android.foodorderapp-jetified-annotation-experimental-1.1.0-10 C:\Users\johya\.gradle\caches\transforms-3\5d5528715086584ba7cd556d0f60799c\transformed\jetified-annotation-experimental-1.1.0\res
+com.android.foodorderapp-fragment-1.3.6-11 C:\Users\johya\.gradle\caches\transforms-3\6a4f5cc00fc52f7ba235449effdf1b0b\transformed\fragment-1.3.6\res
+com.android.foodorderapp-drawerlayout-1.1.1-12 C:\Users\johya\.gradle\caches\transforms-3\6b1f46391ec246162e65206a828d1fb3\transformed\drawerlayout-1.1.1\res
+com.android.foodorderapp-lifecycle-runtime-2.5.1-13 C:\Users\johya\.gradle\caches\transforms-3\70822f8ccecb4095fa25d908105254d2\transformed\lifecycle-runtime-2.5.1\res
+com.android.foodorderapp-jetified-emoji2-views-helper-1.2.0-14 C:\Users\johya\.gradle\caches\transforms-3\70d94b6c0e2b27c1746cf80b701db195\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.android.foodorderapp-jetified-firebase-common-20.2.0-15 C:\Users\johya\.gradle\caches\transforms-3\7be03314e9c3291e0faba6c3c4936628\transformed\jetified-firebase-common-20.2.0\res
+com.android.foodorderapp-coordinatorlayout-1.1.0-16 C:\Users\johya\.gradle\caches\transforms-3\83e592bed14c91e96b976a081171d866\transformed\coordinatorlayout-1.1.0\res
+com.android.foodorderapp-jetified-lifecycle-process-2.4.1-17 C:\Users\johya\.gradle\caches\transforms-3\93fb576ffd1abe96053ca79a6b6544ed\transformed\jetified-lifecycle-process-2.4.1\res
+com.android.foodorderapp-core-1.8.0-18 C:\Users\johya\.gradle\caches\transforms-3\9401d956a53e00fc8b6297232300e729\transformed\core-1.8.0\res
+com.android.foodorderapp-cardview-1.0.0-19 C:\Users\johya\.gradle\caches\transforms-3\941d3b7e4910248c71a672cd1c191cdc\transformed\cardview-1.0.0\res
+com.android.foodorderapp-transition-1.2.0-20 C:\Users\johya\.gradle\caches\transforms-3\a048b07f0330aec0fad180097aa20fd3\transformed\transition-1.2.0\res
+com.android.foodorderapp-appcompat-1.5.1-21 C:\Users\johya\.gradle\caches\transforms-3\a0aafada94a472b81f3d90efe55bfa52\transformed\appcompat-1.5.1\res
+com.android.foodorderapp-constraintlayout-2.1.4-22 C:\Users\johya\.gradle\caches\transforms-3\a17ec59bad7986065ea3d9bc5da607d4\transformed\constraintlayout-2.1.4\res
+com.android.foodorderapp-jetified-activity-1.5.1-23 C:\Users\johya\.gradle\caches\transforms-3\ade043ea6ef4847ac45d478d7ec5f11a\transformed\jetified-activity-1.5.1\res
+com.android.foodorderapp-lifecycle-viewmodel-2.5.1-24 C:\Users\johya\.gradle\caches\transforms-3\b07f342f03b6b666e128fbac8a349a02\transformed\lifecycle-viewmodel-2.5.1\res
+com.android.foodorderapp-jetified-appcompat-resources-1.5.1-25 C:\Users\johya\.gradle\caches\transforms-3\b32a9152015aea07516a7730b67f2278\transformed\jetified-appcompat-resources-1.5.1\res
+com.android.foodorderapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-26 C:\Users\johya\.gradle\caches\transforms-3\fe8960b2bef56e5975aef9182147bc2b\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.android.foodorderapp-google-services-27 C:\sources\Android\RimasApp\app\build\generated\res\google-services\debug
+com.android.foodorderapp-pngs-28 C:\sources\Android\RimasApp\app\build\generated\res\pngs\debug
+com.android.foodorderapp-resValues-29 C:\sources\Android\RimasApp\app\build\generated\res\resValues\debug
+com.android.foodorderapp-rs-30 C:\sources\Android\RimasApp\app\build\generated\res\rs\debug
+com.android.foodorderapp-mergeDebugResources-31 C:\sources\Android\RimasApp\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.android.foodorderapp-mergeDebugResources-32 C:\sources\Android\RimasApp\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.android.foodorderapp-merged_res-33 C:\sources\Android\RimasApp\app\build\intermediates\merged_res\debug
+com.android.foodorderapp-debug-34 C:\sources\Android\RimasApp\app\src\debug\res
+com.android.foodorderapp-main-35 C:\sources\Android\RimasApp\app\src\main\res

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.android.foodorderapp-mergeDebugResources-28:/values-v16/values-v16.xml",
+            "outputFile": "com.android.foodorderapp-mergeDebugResources-31:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jalil Zab\\.gradle\\caches\\transforms-3\\28a1708219c3158e49b329d141e5cfff\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\johya\\.gradle\\caches\\transforms-3\\9401d956a53e00fc8b6297232300e729\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jalil Zab\\.gradle\\caches\\transforms-3\\3237c50a3caa87d96377052b95ee4677\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\johya\\.gradle\\caches\\transforms-3\\a0aafada94a472b81f3d90efe55bfa52\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
