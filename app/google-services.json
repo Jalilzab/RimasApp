@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421289519963",
+    "project_id": "rimasfoodapp",
+    "storage_bucket": "rimasfoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421289519963:android:fb0c2e6572d210084d887e",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421289519963-740afdl30q81mdej637iikjc6kr1h1uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51_xtJ5yH2ZX6cSFhyt3g-Fg7A5QZ_Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421289519963-740afdl30q81mdej637iikjc6kr1h1uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
